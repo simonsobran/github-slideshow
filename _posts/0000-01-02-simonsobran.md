@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+> I did ~~impossible~~ then I did it twice.
 Use left arrow to go back! 
